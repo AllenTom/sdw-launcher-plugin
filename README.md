@@ -1,0 +1,1 @@
+# sdw-launcher-plugin
